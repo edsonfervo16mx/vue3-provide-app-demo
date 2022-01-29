@@ -1,4 +1,4 @@
-# provide-app
+# vue3-provide-app-demo
 
 ## Project setup
 ```
